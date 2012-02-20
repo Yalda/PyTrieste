@@ -9,3 +9,6 @@ Study materials will be in the  https://github.com/thehackerwithin/PyTrieste/wik
 Much of the material for this bootcamp is borrowed from https://github.com/thehackerwithin/Python2010 and from http://www.software-carpentry.org
 
 
+i am editing this file :)
+
+
